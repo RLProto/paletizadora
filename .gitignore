@@ -1,0 +1,8 @@
+runs/
+frames/
+datasets/
+venv/
+videos/
+.best.pt
+.yolov8n.pt
+.yolov8x.pt
